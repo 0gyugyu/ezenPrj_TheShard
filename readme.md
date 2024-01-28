@@ -131,10 +131,11 @@
   
 * **리뷰(한줄평) 작성**
   * `상품 상세` 페이지에서 리뷰를 등록할 수 있습니다.
-    ![구매 리뷰 작성](https://github.com/0gyugyu/ezenPrj_TheShard/assets/130464966/1e31d8ea-7b03-4cf8-bd58-19a39744dd04)
-    
+  ![iteminfo_itemReview_buy](https://github.com/0gyugyu/ezenPrj_TheShard/assets/130464966/e725b693-e1e7-4f35-a476-ca40d5a90dc2)
+
   * `구매고객` 상품을 구매한 고객만 리뷰를 등록할 수 있습니다.
-    ![구매하지 않은 리뷰작성](https://github.com/0gyugyu/ezenPrj_TheShard/assets/130464966/1517fc95-c8f2-479e-aafb-83b058ef1bc0)
+  ![iteminfo_itemReview_nonebuy](https://github.com/0gyugyu/ezenPrj_TheShard/assets/130464966/c1ab39a3-62d6-4edb-a0e2-d4030894dc3a)
+
 
 * **상품문의 작성**
   ![상품문의 ](https://github.com/0gyugyu/ezenPrj_TheShard/assets/130464966/77d1a535-2c6a-4d4a-9469-033f9a906cd7)
