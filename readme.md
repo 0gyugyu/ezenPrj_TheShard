@@ -118,7 +118,8 @@
   ![iteminfo](https://github.com/0gyugyu/ezenPrj_TheShard/assets/130464966/f22b9a3d-31f0-40bc-8356-35efc1e4ad20)
 
   * `상품 상세` 페이지에서 좋아요(위시리스트 추가)을 할 수 있습니다.
-  ![iteminfo_wishlist](https://github.com/0gyugyu/ezenPrj_TheShard/assets/130464966/f981cad9-b8ec-49a3-8c75-63a6329c00bc)
+  ![iteminfo_wishList](https://github.com/0gyugyu/ezenPrj_TheShard/assets/130464966/c375e46f-6c00-4bef-abf2-b5b653a3851e)
+
 
 
 * **상품 사이즈 선택 및 수량 조절**
@@ -138,7 +139,7 @@
 
 
 * **상품문의 작성**
-  ![상품문의 ](https://github.com/0gyugyu/ezenPrj_TheShard/assets/130464966/77d1a535-2c6a-4d4a-9469-033f9a906cd7)
+ ![iteminfo_itemQnA](https://github.com/0gyugyu/ezenPrj_TheShard/assets/130464966/32c52c14-4cb4-4ace-aac0-3a6ba1ec5915)
   * `상품 상세`페이지에서 상품에 대한 문의를 등록할 수 있습니다.
   * `비 구매고객`도 상품문의를 할 수 있습니다.
   * 문의 상품에 대한 `상품번호`와 `상품이름`을 작성 중 확인할 수 있습니다.
