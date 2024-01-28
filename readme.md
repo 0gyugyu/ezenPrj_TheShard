@@ -1,4 +1,4 @@
-<h1 align='center'> <img src='https://cdn-icons-png.flaticon.com/512/5208/5208370.png' style='width: 300px; height: 200px;'>&nbsp;</h1>
+![구매하지 않은 리뷰작성](https://github.com/0gyugyu/ezenPrj_TheShard/assets/130464966/07229c3c-147e-47e5-85e3-be57ef4d16a1)<h1 align='center'> <img src='https://cdn-icons-png.flaticon.com/512/5208/5208370.png' style='width: 300px; height: 200px;'>&nbsp;</h1>
 <h1  align='center'>👕스프링 의류 쇼핑몰 프로젝트</h1>
 <div align='center'>
   <h3>
@@ -83,6 +83,7 @@
 
 #### 리뷰(상품리뷰)
 - 리뷰작성
+- 
 
 #### 관리자
 - 상품 등록
@@ -114,9 +115,11 @@
 
 * **상품 상세 조회 및 좋아요**
   * 상품 목록에서 상품의 사진을 클릭하면 `상품 상세 정보` 를 확인할 수 있습니다.
-  * `상품 상세` 페이지에서 좋아요(추천)을 할 수 있습니다.
+  * `상품 상세` 페이지에서 좋아요(위시리스트 추가)을 할 수 있습니다.
+  ![위시리스트](https://github.com/0gyugyu/ezenPrj_TheShard/assets/130464966/ff3f5f53-f9d7-47e0-9045-1eb6881a2962)
 
 * **상품 사이즈 선택 및 수량 조절**
+  ![수량 조절 및 가격 ](https://github.com/0gyugyu/ezenPrj_TheShard/assets/130464966/e2c32a2f-f592-4c45-9601-668baa40fb4e)
    * 상품 상세페이지에서 `옵션`을 선택해서 원하는 사이즈를 선택할 수 있습니다.
    * DB에 재고가 `0`이면 상품이 `비활성화`되어 선택할 수 없습니다.
    * 선택된 상품은 `수량`을 조절할 수 있으며, 최대 50개로 제한되어 있습니다.
@@ -125,9 +128,13 @@
   
 * **리뷰(한줄평) 작성**
   * `상품 상세` 페이지에서 리뷰를 등록할 수 있습니다.
+    ![구매 리뷰 작성](https://github.com/0gyugyu/ezenPrj_TheShard/assets/130464966/1e31d8ea-7b03-4cf8-bd58-19a39744dd04)
+    
   * `구매고객` 상품을 구매한 고객만 리뷰를 등록할 수 있습니다.
- 
+    ![구매하지 않은 리뷰작성](https://github.com/0gyugyu/ezenPrj_TheShard/assets/130464966/1517fc95-c8f2-479e-aafb-83b058ef1bc0)
+
 * **상품문의 작성**
+  ![상품문의 ](https://github.com/0gyugyu/ezenPrj_TheShard/assets/130464966/77d1a535-2c6a-4d4a-9469-033f9a906cd7)
   * `상품 상세`페이지에서 상품에 대한 문의를 등록할 수 있습니다.
   * `비 구매고객`도 상품문의를 할 수 있습니다.
   * 문의 상품에 대한 `상품번호`와 `상품이름`을 작성 중 확인할 수 있습니다.
