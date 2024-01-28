@@ -122,7 +122,7 @@
 
 
 * **상품 사이즈 선택 및 수량 조절**
-  ![iteminfo_itemdetail](https://github.com/0gyugyu/ezenPrj_TheShard/assets/130464966/f14797f2-d168-42cc-9c24-5d539664f6c4)
+  ![iteminfo_itemStock](https://github.com/0gyugyu/ezenPrj_TheShard/assets/130464966/a8514ec9-83d5-432c-9726-03c684184af3)
    * 상품 상세페이지에서 `옵션`을 선택해서 원하는 사이즈를 선택할 수 있습니다.
    * DB에 재고가 `0`이면 상품이 `비활성화`되어 선택할 수 없습니다.
    * 선택된 상품은 `수량`을 조절할 수 있으며, 최대 50개로 제한되어 있습니다.
