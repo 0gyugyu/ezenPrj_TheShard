@@ -115,9 +115,11 @@
 
 * **상품 상세 조회 및 좋아요**
   * 상품 목록에서 상품의 사진을 클릭하면 `상품 상세 정보` 를 확인할 수 있습니다.
-  * ![The shard 내 작업 전체 영상_1](https://github.com/0gyugyu/ezenPrj_TheShard/assets/130464966/be04bfb5-4a8e-47cd-82b1-76a791298106)
+  ![iteminfo](https://github.com/0gyugyu/ezenPrj_TheShard/assets/130464966/f22b9a3d-31f0-40bc-8356-35efc1e4ad20)
+
   * `상품 상세` 페이지에서 좋아요(위시리스트 추가)을 할 수 있습니다.
-  * ![위시리스트](https://github.com/0gyugyu/ezenPrj_TheShard/assets/130464966/ff3f5f53-f9d7-47e0-9045-1eb6881a2962)
+  ![iteminfo_wishlist](https://github.com/0gyugyu/ezenPrj_TheShard/assets/130464966/f981cad9-b8ec-49a3-8c75-63a6329c00bc)
+
 
 * **상품 사이즈 선택 및 수량 조절**
   ![수량 조절 및 가격 ](https://github.com/0gyugyu/ezenPrj_TheShard/assets/130464966/e2c32a2f-f592-4c45-9601-668baa40fb4e)
