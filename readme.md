@@ -1,4 +1,4 @@
-![구매하지 않은 리뷰작성](https://github.com/0gyugyu/ezenPrj_TheShard/assets/130464966/07229c3c-147e-47e5-85e3-be57ef4d16a1)<h1 align='center'> <img src='https://cdn-icons-png.flaticon.com/512/5208/5208370.png' style='width: 300px; height: 200px;'>&nbsp;</h1>
+<h1 align='center'> <img src='https://cdn-icons-png.flaticon.com/512/5208/5208370.png' style='width: 300px; height: 200px;'>&nbsp;</h1>
 <h1  align='center'>👕스프링 의류 쇼핑몰 프로젝트</h1>
 <div align='center'>
   <h3>
